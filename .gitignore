@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+.idea/
+.vscode/
+
+Dataset/
+PredictResults/
+fracture_type_dataset/
+fracture_type_dataset_raw/
+
+*.zip
+
+weights/
